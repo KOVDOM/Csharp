@@ -1,0 +1,30 @@
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.genruntimeconfig.cache
+C:\Users\Kasza Róbert\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\nevek.txt
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\nevek.txt
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.genruntimeconfig.cache

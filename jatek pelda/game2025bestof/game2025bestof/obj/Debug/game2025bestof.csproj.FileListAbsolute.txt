@@ -1,0 +1,10 @@
+C:\Users\Kasza Róbert\source\repos\game2025bestof\game2025bestof\bin\Debug\game2025bestof.exe.config
+C:\Users\Kasza Róbert\source\repos\game2025bestof\game2025bestof\bin\Debug\game2025bestof.exe
+C:\Users\Kasza Róbert\source\repos\game2025bestof\game2025bestof\bin\Debug\game2025bestof.pdb
+C:\Users\Kasza Róbert\source\repos\game2025bestof\game2025bestof\obj\Debug\game2025bestof.csproj.AssemblyReference.cache
+C:\Users\Kasza Róbert\source\repos\game2025bestof\game2025bestof\obj\Debug\game2025bestof.Form1.resources
+C:\Users\Kasza Róbert\source\repos\game2025bestof\game2025bestof\obj\Debug\game2025bestof.Properties.Resources.resources
+C:\Users\Kasza Róbert\source\repos\game2025bestof\game2025bestof\obj\Debug\game2025bestof.csproj.GenerateResource.cache
+C:\Users\Kasza Róbert\source\repos\game2025bestof\game2025bestof\obj\Debug\game2025bestof.csproj.CoreCompileInputs.cache
+C:\Users\Kasza Róbert\source\repos\game2025bestof\game2025bestof\obj\Debug\game2025bestof.exe
+C:\Users\Kasza Róbert\source\repos\game2025bestof\game2025bestof\obj\Debug\game2025bestof.pdb

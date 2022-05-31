@@ -1,0 +1,20 @@
+C:\Users\Kovács_PC\Source\Repos\20220425\20220425\obj\Debug\_20220425.Form1.resources
+C:\Users\Kovács_PC\Source\Repos\20220425\20220425\obj\Debug\_20220425.Properties.Resources.resources
+C:\Users\Kovács_PC\Source\Repos\20220425\20220425\obj\Debug\20220425.csproj.GenerateResource.cache
+C:\Users\Kovács_PC\Source\Repos\20220425\20220425\obj\Debug\20220425.csproj.CoreCompileInputs.cache
+C:\Users\Kovács_PC\Source\Repos\20220425\20220425\obj\Debug\20220425.csproj.AssemblyReference.cache
+C:\Users\Kovács_PC\Source\Repos\20220425\20220425\bin\Debug\20220425.exe.config
+C:\Users\Kovács_PC\Source\Repos\20220425\20220425\bin\Debug\20220425.exe
+C:\Users\Kovács_PC\Source\Repos\20220425\20220425\bin\Debug\20220425.pdb
+C:\Users\Kovács_PC\Source\Repos\20220425\20220425\obj\Debug\20220425.exe
+C:\Users\Kovács_PC\Source\Repos\20220425\20220425\obj\Debug\20220425.pdb
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\20220425\20220425\bin\Debug\20220425.exe.config
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\20220425\20220425\bin\Debug\20220425.exe
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\20220425\20220425\bin\Debug\20220425.pdb
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\20220425\20220425\obj\Debug\20220425.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\20220425\20220425\obj\Debug\_20220425.Form1.resources
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\20220425\20220425\obj\Debug\_20220425.Properties.Resources.resources
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\20220425\20220425\obj\Debug\20220425.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\20220425\20220425\obj\Debug\20220425.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\20220425\20220425\obj\Debug\20220425.exe
+C:\Users\Admin\Desktop\Kovács Dominik 13D\c#\20220425\20220425\obj\Debug\20220425.pdb
