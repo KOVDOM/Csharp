@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\EgyszamjatekKonzol\bin\Debug\egyszamjatek1.txt
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\EgyszamjatekKonzol\bin\Debug\EgyszamjatekKonzol.exe.config
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\EgyszamjatekKonzol\bin\Debug\EgyszamjatekKonzol.exe
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\EgyszamjatekKonzol\bin\Debug\EgyszamjatekKonzol.pdb
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\EgyszamjatekKonzol\obj\Debug\EgyszamjatekKonzol.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\EgyszamjatekKonzol\obj\Debug\EgyszamjatekKonzol.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\EgyszamjatekKonzol\obj\Debug\EgyszamjatekKonzol.exe
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\EgyszamjatekKonzol\obj\Debug\EgyszamjatekKonzol.pdb

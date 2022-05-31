@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\egyszamjatekGUI\bin\Debug\egyszamjatekGUI.exe.config
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\egyszamjatekGUI\bin\Debug\egyszamjatekGUI.exe
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\egyszamjatekGUI\bin\Debug\egyszamjatekGUI.pdb
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\egyszamjatekGUI\obj\Debug\egyszamjatekGUI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\egyszamjatekGUI\obj\Debug\egyszamjatekGUI.Form1.resources
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\egyszamjatekGUI\obj\Debug\egyszamjatekGUI.Properties.Resources.resources
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\egyszamjatekGUI\obj\Debug\egyszamjatekGUI.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\egyszamjatekGUI\obj\Debug\egyszamjatekGUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\egyszamjatekGUI\obj\Debug\egyszamjatekGUI.exe
+C:\Users\Admin\source\repos\EgyszamjatekKonzol\egyszamjatekGUI\obj\Debug\egyszamjatekGUI.pdb

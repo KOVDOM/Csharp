@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Dominoerettsegi\dominoForm\bin\Debug\dominoForm.exe.config
+C:\Users\Admin\source\repos\Dominoerettsegi\dominoForm\bin\Debug\dominoForm.exe
+C:\Users\Admin\source\repos\Dominoerettsegi\dominoForm\bin\Debug\dominoForm.pdb
+C:\Users\Admin\source\repos\Dominoerettsegi\dominoForm\obj\Debug\dominoForm.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Dominoerettsegi\dominoForm\obj\Debug\dominoForm.Form1.resources
+C:\Users\Admin\source\repos\Dominoerettsegi\dominoForm\obj\Debug\dominoForm.Properties.Resources.resources
+C:\Users\Admin\source\repos\Dominoerettsegi\dominoForm\obj\Debug\dominoForm.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Dominoerettsegi\dominoForm\obj\Debug\dominoForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dominoerettsegi\dominoForm\obj\Debug\dominoForm.exe
+C:\Users\Admin\source\repos\Dominoerettsegi\dominoForm\obj\Debug\dominoForm.pdb
+C:\Users\Admin\source\repos\Dominoerettsegi\dominoForm\bin\Debug\domino.txt

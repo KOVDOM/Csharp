@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Dominoerettsegi\Dominoerettsegi\bin\Debug\domino.txt
+C:\Users\Admin\source\repos\Dominoerettsegi\Dominoerettsegi\bin\Debug\Dominoerettsegi.exe.config
+C:\Users\Admin\source\repos\Dominoerettsegi\Dominoerettsegi\bin\Debug\Dominoerettsegi.exe
+C:\Users\Admin\source\repos\Dominoerettsegi\Dominoerettsegi\bin\Debug\Dominoerettsegi.pdb
+C:\Users\Admin\source\repos\Dominoerettsegi\Dominoerettsegi\obj\Debug\Dominoerettsegi.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Dominoerettsegi\Dominoerettsegi\obj\Debug\Dominoerettsegi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dominoerettsegi\Dominoerettsegi\obj\Debug\Dominoerettsegi.exe
+C:\Users\Admin\source\repos\Dominoerettsegi\Dominoerettsegi\obj\Debug\Dominoerettsegi.pdb
